@@ -350,8 +350,8 @@ if __name__ == "__main__":
 
     # 1) load a model
     model = DAMOILT(size=(1024, 1024))
-    netG_path = "your path"
-    netD_path = "your path"
+    netG_path = "your path netG"
+    netD_path = "your path netD"
     model.load([netG_path, netD_path])
 
     # 2) move to GPU for netG
@@ -360,7 +360,7 @@ if __name__ == "__main__":
     model.netG.eval()   # inference mode
 
     # 3) test folder
-    folder_test = "your path"
+    folder_test = "your path**"
 
     # 4) execute
     testSingleMaskOpt(folder_test, model)
