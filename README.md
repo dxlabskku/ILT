@@ -1,4 +1,5 @@
-# Explainable Inverse Lithography Technology: A Data-Driven Framework for Transparent Mask Fabrication
+# Explainable Inverse Lithography Technology:
+A Data-Driven Framework for Transparent Mask Fabrication
 
 ## 1. Abstract
 Advanced lithography is struggling with escalating variable-shaped-beam (VSB) shot counts and rising mask costs as layouts grow more intricate.
