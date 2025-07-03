@@ -34,12 +34,15 @@ D. Datasets & Benchmarks – The 2023 LithoBench benchmark unifies 133,496 tiles
 
 ## 5. Results
 •	Explainability – AD-CAM outperforms Grad-/Score-CAM across ten ICCAD-13 patterns with R^2_{sal}=0.79 (Fig. 5).
+
 <img width="429" alt="image" src="https://github.com/user-attachments/assets/528d8777-00fb-4ac7-ae78-014d444914ec" />
 
 •	Accuracy Correlation – For 1,647 MetalSet tiles, every 0.1 rise in R^2_{sal} yields significant drops in L2, PVB, and EPE; regressions achieve R^2_{reg} 0.63 (Fig. 6).
+
 <img width="297" alt="image" src="https://github.com/user-attachments/assets/233ab482-276d-4cc7-8097-89bb15615b53" />
 
 •	Manufacturing Impact – Binned analysis shows shot count and EPE increase monotonically with mean AD-CAM intensity (p < 0.05) (Fig. 7).
+
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/7bf5414c-030e-4f3b-b40b-be340bd07e3e" />
 
 ## 6. Discussion & Conclusions
