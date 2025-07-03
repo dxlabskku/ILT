@@ -1,4 +1,7 @@
 
+##This code was developed using the GitHub file directory from the LithoBench paper.##
+##https://github.com/shelljane/lithobench##
+
 # --------------------------------------------------
 # 0. Imports & Global constants
 # --------------------------------------------------
